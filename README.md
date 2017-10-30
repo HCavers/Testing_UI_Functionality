@@ -1,0 +1,1 @@
+Trying to implement functionality to allow a clickable grid.
